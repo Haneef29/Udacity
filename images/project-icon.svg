@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="31px" viewBox="0 0 30 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 17</title>
+    <defs>
+        <polygon id="path-1" points="0 0 22.5608981 0 22.5608981 29.99976 0 29.99976"></polygon>
+        <polygon id="path-3" points="0 0 12.0843223 0 12.0843223 12.0968632 0 12.0968632"></polygon>
+    </defs>
+    <g id="NDOP-R4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NDOP-Template---Screen-1---Desktop" transform="translate(-145.000000, -2594.000000)">
+            <g id="Group-17" transform="translate(145.000000, 2595.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.000240)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M21.3621161,29.99976 L1.19860222,29.99976 C0.536874535,29.99976 -0.000179817306,29.4621643 -0.000179817306,28.7997696 L-0.000179817306,1.1999904 C-0.000179817306,0.537595699 0.536874535,0 1.19860222,0 L15.4844878,0 L22.5608981,7.10994312 L22.5608981,28.7997696 C22.5608981,29.4621643 22.0238438,29.99976 21.3621161,29.99976" id="Fill-1" fill="#00C5A1" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M22.5878108,7.10994312 L16.6832099,7.10994312 C16.0214822,7.10994312 15.4844278,6.57294742 15.4844278,5.90995272 L15.4844278,0" id="Stroke-4" stroke="#0B0B0B" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="4.44921959" y1="18.4107927" x2="18.1728764" y2="18.4107927" id="Stroke-6" stroke="#0B0B0B" stroke-width="0.6" stroke-linecap="round"></line>
+                <line x1="4.43165744" y1="13.2689538" x2="18.1553142" y2="13.2689538" id="Stroke-8" stroke="#0B0B0B" stroke-width="0.6" stroke-linecap="round"></line>
+                <line x1="4.44921959" y1="23.5523916" x2="18.1728764" y2="23.5523916" id="Stroke-10" stroke="#0B0B0B" stroke-width="0.6" stroke-linecap="round"></line>
+                <g id="Group-14" transform="translate(17.915678, 17.903137)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-13"></g>
+                    <path d="M12.0843223,6.04855161 C12.0843223,9.38872489 9.37927066,12.0971032 6.04246086,12.0971032 C2.70565106,12.0971032 0,9.38872489 0,6.04855161 C0,2.70837833 2.70565106,0 6.04246086,0 C9.37927066,0 12.0843223,2.70837833 12.0843223,6.04855161" id="Fill-12" fill="#BDEA09" mask="url(#mask-4)"></path>
+                </g>
+                <polyline id="Stroke-15" stroke="#0B0B0B" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" points="20.8341125 23.5180719 23.2053034 25.8916529 27.0821645 22.0114839"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
